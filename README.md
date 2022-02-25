@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+My name's Jonathan Davies - some people call me Spud.
+- 🔭 I’m currently a Unified Communications Engineer at Waterstons, rolling out telephony based projects to small and enterprise based clients.
+- 🌱 I’m currently learning the in's and out's of Github pages, and how to share my knowledge with a wider audience.
+- 👯 I’m looking to collaborate on any projects based around documentation and powershell.
+- 📫 How to reach me: you can find me on [LinkenIn](https://www.linkedin.com/in/spud/) and you can learn more about me on [my personal website](https://www.jonathandavies.uk/).
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I rolled out a telephony system for Sir Paul McCartney. 
+
 <!--
 **jonathan-davies-uk/jonathan-davies-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a Unified Communications Engineer at Waterstons ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
