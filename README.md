@@ -1,7 +1,7 @@
 ### Hi there 👋                      
 
 My name's Jonathan Davies - some people call me Spud.
-- 🔭 I’m currently a Unified Communications Solutions Architect at a New Company, rolling out telephony based projects to small and enterprise based clients.
+- 🔭 I’m currently a Unified Communications Solutions Architect, rolling out telephony based projects to small and enterprise based clients.
 - 🌱 I’m currently learning the in's and out's of Github pages, and how to share my knowledge with a wider audience.
 - 👯 I’m looking to collaborate on any projects based around documentation and powershell.
 - 📫 How to reach me: you can find me on [LinkedIn](https://www.linkedin.com/in/spud/) and you can learn more about me on [my personal website](https://www.jonathandavies.uk/).
