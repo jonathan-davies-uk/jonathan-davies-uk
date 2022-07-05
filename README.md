@@ -15,7 +15,7 @@ My name's Jonathan Davies - some people call me Spud.
 
 ### Here are some stats from my GitHub
 
-[![Jonathan Davies GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-davies-uk)]
+[!Jonathan Davies GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-davies-uk)
 
 <!--
 **jonathan-davies-uk/jonathan-davies-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
