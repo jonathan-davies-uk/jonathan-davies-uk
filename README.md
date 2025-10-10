@@ -10,7 +10,7 @@
 
 ### Here are some stats from my GitHub
 
-![Jonathan Davies GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-davies-uk&rank_icon=github")
+![Jonathan Davies GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-davies-uk)
 ![Jonathan Davies Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-davies-uk&layout=compact)
 
 <!--
